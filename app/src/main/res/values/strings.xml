@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab sheet</string>
+    <string name="StartButton">START</string>
+    <string name="stopButton">STOP</string>
+</resources>
